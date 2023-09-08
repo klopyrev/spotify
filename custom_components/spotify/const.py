@@ -25,6 +25,7 @@ SPOTIFY_SCOPES = [
     "user-follow-read",
     # Added by klopyrev@
     "playlist-modify-private",
+    "user-library-modify",
 ]
 
 MEDIA_PLAYER_PREFIX = "spotify://"
